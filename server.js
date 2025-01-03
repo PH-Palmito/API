@@ -67,8 +67,7 @@ app.delete('/usuarios/:id', async (req, res) => {
 
 app.listen(3000)
 
-/* phpalmito
-senha: z4pqGmVMFGmElSoW
+
 node server.js
 node --watch server.js
 */
